@@ -3,7 +3,7 @@
 
 This project presents an interactive Power BI dashboard analyzing the Indian Premier League (IPL) from 2008 to 2025.
 The dashboard provides insights into team performance, player statistics, and season-wise trends, enabling users to explore IPL data through dynamic visualizations and key performance indicators
-
+https://github.com/AtharvaDahake/IPL---ball-by-ball-ANALYSIS-2008---2025-/blob/main/image.png?raw=true
 C:\Users\athar\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 093002.png
 🎯 Objectives
 >Analyze team and player performance across IPL seasons.
